@@ -1,4 +1,4 @@
-SimonSaysScheme
+ShooterScheme
 ===============
 
-A basic implementation of the SimonSays game on Scheme.
+A basic implementation of a Shooter game on Scheme.
